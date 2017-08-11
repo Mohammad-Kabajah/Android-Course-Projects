@@ -1,0 +1,5 @@
+بيت=house
+منزل=house
+ياد=hand
+انف=nose
+نفسي=myself
